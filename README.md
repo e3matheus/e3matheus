@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**e3matheus/e3matheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h2>I'm currently ...</h2>
+</div>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on AI
+- 🌱 I’m currently learning AI
+- 👯 I’m looking to collaborate on AI
+- 🤔 I’m looking for help with AI
+- 💬 Ask me about Ruby on Rails
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🦄 Contact Me:
+
+[![in]][in-link]
+
+[in]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
+
+[in-link]: https://www.linkedin.com/in/e3matheus/
