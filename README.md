@@ -4,8 +4,9 @@
   <h2>I'm currently ...</h2>
 </div>
 
+- 😳 I’m currently freaking out about AI.
 - 🤔 I’m looking for ways to program with my mobile device.
-- 💬 Ask me about Ruby on Rails, TDD.
+- 💬 Ask me about Ruby on Rails, TDD, ways to integrate AI to your engineering team.
 
 ### Contact Me:
 
