@@ -4,9 +4,8 @@
   <h2>I'm currently ...</h2>
 </div>
 
-- 🌱 I’m currently learning AI
-- 🤔 I’m looking for help with AI
-- 💬 Ask me about Ruby on Rails
+- 🤔 I’m looking for ways to program with my mobile device.
+- 💬 Ask me about Ruby on Rails, TDD.
 
 ### Contact Me:
 
