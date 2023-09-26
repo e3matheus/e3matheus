@@ -4,13 +4,11 @@
   <h2>I'm currently ...</h2>
 </div>
 
-- 🔭 I’m currently working on AI
 - 🌱 I’m currently learning AI
-- 👯 I’m looking to collaborate on AI
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Ruby on Rails
 
-### 🦄 Contact Me:
+### Contact Me:
 
 [![in]][in-link]
 
