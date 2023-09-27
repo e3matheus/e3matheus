@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<div>
-  <h2>I'm currently ...</h2>
-</div>
-
 - 😳 I’m currently freaking out about AI.
 - 🤔 I’m looking for ways to program with my mobile device.
 - 💬 Ask me about Ruby on Rails, TDD, No Code and ways to integrate AI to your engineering team.
